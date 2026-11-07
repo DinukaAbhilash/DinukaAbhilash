@@ -3,14 +3,14 @@
 <p align="center">
 <img width="50%" align="left" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 </p>
-<h1>Hi there, I'm Asanga Udara 👋</h1>
+<h1>Hi there, I'm Dinuka Abhilashs 👋</h1>
 
 
 
 &nbsp;
-- 👨🏽‍💻 HELLO I’m Asanga Udara ;
+- 👨🏽‍💻 HELLO I’m Dinuka Abhilashs ;
 - 🌱 I’m currently learning Python Linux Shell Html PHP Java JS CSS C++  ; 
-- ⚡️ I’m looking to collaborate on [Asanga Udara](www.asangabro.ga) 🤝;
+- ⚡️ I’m looking to collaborate on [Dinuka](www.dinuka.net) 🤝;
 - 🤔 I’m looking for New programming methord;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ I'm Still Student;
